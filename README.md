@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Declan
+- 👋 I’m Declan
 - 👀 I’m interested in all cloud capabilities
 - 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m happy to collaborate on anything really, let's have a look  00
