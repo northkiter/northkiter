@@ -1,7 +1,7 @@
 - 👋 I’m Declan
 - 👀 I’m interested in all cloud capabilities & MI
 - 🌱 I’m learning Azure DevOps & AZ 303 and will follow up with MI/Python for trading
-- 💞️ I’m happy to collaborate on Cloud projects, let's have a look  00
+- 💞️ I’m happy to collaborate on most cloud projects
 - 📫 Reach me on instagram.com/declank101
 
 <!---
