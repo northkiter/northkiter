@@ -1,7 +1,7 @@
 - 👋 I’m Declan
-- 👀 I’m interested in all cloud capabilities & MI
-- 🌱 I’m learning Azure DevOps & Azure Solution Architecture and I plan to follow up with MI/Python
-- 💞️ I’m happy to collaborate on most cloud projects
+- 👀 I’m interested in all cloud capabilities & agentic capabilities
+- 🌱 I’m using Azure DevOps & Azure Architecture, SQL and Python
+- 💞️ I’m happy to collaborate on cloud projects
 - 📫 Based in the UK, can reach me @ instagram.com/declan076
 
 <!---
